@@ -1,10 +1,8 @@
-﻿# JUA KAZI KE
+# Jua Kazi KE
 
-JUA KAZI | Verified Local Pros
+<img src="./assets/header.svg" width="100%" alt="Jua Kazi KE" />
 
-## Stack
-
-react Â· vite Â· typescript
+Verified local pros. Hire trusted service providers nearby.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
